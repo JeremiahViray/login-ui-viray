@@ -7,4 +7,5 @@ Below are screenshots of the first drafts. I would like to plan on making the UI
 ![Screenshot 2023-11-11 at 3 20 23 PM](https://github.com/JeremiahViray/login-ui-viray/assets/108777634/8f7082b0-ff8f-4d3f-bfe0-6d9c8b653520)
 ![Screenshot 2023-11-11 at 3 21 40 PM](https://github.com/JeremiahViray/login-ui-viray/assets/108777634/c3755244-aea6-423a-a3a1-6c34a19235e9)
 
-
+*Update*
+I added a media query so the layout changes on wider screens.
